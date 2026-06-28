@@ -1,8 +1,8 @@
 class Bif < Formula
   desc "Batch Ingestion Framework for structured technical knowledge acquisition"
   homepage "https://github.com/hummbl-dev/bif"
-  url "https://files.pythonhosted.org/packages/c1/bc/9ee245ec77ee4eed5d2dd2c96e7fef20ad0d877e764826616aea73fcd3b2/hummbl_bif-1.0.0.tar.gz"
-  sha256 "edcea88f540b026691108aacd1bf02fb636df81b4035449b3ade8f138228a094"
+  url "https://files.pythonhosted.org/packages/d3/70/5c2b245de93918782d480f5de6415a6cf103c8f974fa5d1c3afd439bae43/hummbl_bif-1.0.1.tar.gz"
+  sha256 "de25a7fec87065d5d8e5725baa4b4e51221d9a32c4020233d5ad2ba2096d5e8e"
   license "Apache-2.0"
 
   depends_on "python@3.11"
