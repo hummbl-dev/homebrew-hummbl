@@ -17,6 +17,10 @@ brew install bif
 | [arbiter](Formula/arbiter.rb) | Agent-aware code quality scoring for multi-agent codebases |
 | [bif](Formula/bif.rb) | Batch Ingestion Framework for structured technical knowledge acquisition |
 
+## License
+
+This tap repository is licensed under [Apache 2.0](./LICENSE).
+
 ## Links
 
 - [HUMMBL](https://hummbl.io)
